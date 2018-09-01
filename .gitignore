@@ -1,1 +1,4 @@
 bin
+.settings
+META-INF
+.project
