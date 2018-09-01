@@ -1,5 +1,9 @@
 object efelante {
+	var energia = 500
 	
-	method barritar() = "barritar"
+	method barritar() {
+		energia -= 10 
+		return "barritar"
+	}
 	
 }
