@@ -1,4 +1,4 @@
 bin
-.settings
-META-INF
+.settings/
+META-INF/
 .project
